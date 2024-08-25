@@ -1,0 +1,6 @@
+@EndUserText.label: 'Service Definition'
+define service ZAKP_SD_LIST {
+  expose ZI_AKP_LIST;
+  expose ZI_AKP_FLIGHT;
+  expose ZI_AKP_CARRIER;
+}
